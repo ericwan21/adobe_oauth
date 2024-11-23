@@ -1,2 +1,2 @@
 # adobe_oauth
-Example python code to get an Adobe Oauth Token
+Example python code to get an Adobe Oauth Token.
